@@ -1,2 +1,2 @@
-print "yay!"
+print('hello')
 exit(0)
