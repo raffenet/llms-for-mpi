@@ -1,2 +1,8 @@
 meta-llama/Llama-2-7b-chat-hf
 meta-llama/Meta-Llama-3-8B-Instruct
+meta-llama/CodeLlama-7b-Instruct-hf
+Qwen/Qwen2-7B-Instruct
+Qwen/CodeQwen1.5-7B-Chat
+mistralai/Mistral-7B-Instruct-v0.2
+mistralai/Mamba-Codestral-7B-v0.1
+mistralai/Mistral-Nemo-Instruct-2407
