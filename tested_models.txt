@@ -1,0 +1,7 @@
+gpt2
+gpt2-xl
+tiiuae/falcon-7b
+tiiuae/falcon-40b
+
+
+
